@@ -2,7 +2,7 @@
 ### R-BERT Model 
 An implentation of BERT architecture for relation classification task.
 
-[original article](https://arxiv.org/abs/1905.08284)
+[Original article](https://arxiv.org/abs/1905.08284)
 ![image](https://user-images.githubusercontent.com/18197902/162627967-37940f3a-6fd8-4ff3-860c-ce1a50ead313.png)
 
 ## How to run   
