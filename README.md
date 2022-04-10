@@ -1,5 +1,7 @@
 ### Deep learning 
-https://arxiv.org/abs/1905.08284
+An implentation of BERT architecture for relation classification.
+
+[article][https://arxiv.org/abs/1905.08284]
 
 
 #### Goals  
