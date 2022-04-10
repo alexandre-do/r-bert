@@ -3,6 +3,7 @@ An implentation of BERT architecture for relation classification.
 
 [article][https://arxiv.org/abs/1905.08284]
 
+![image](https://user-images.githubusercontent.com/18197902/162627967-37940f3a-6fd8-4ff3-860c-ce1a50ead313.png)
 
 #### Goals  
 The goal of this seed is to structure ML paper-code the same so that work can easily be extended and replicated.   
