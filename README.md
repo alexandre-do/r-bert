@@ -1,11 +1,6 @@
-### Deep learning project seed
-Use this seed to start new deep learning / ML projects.
+### Deep learning 
+https://arxiv.org/abs/1905.08284
 
-- Built in setup.py
-- Built in requirements
-- Examples with MNIST
-- Badges
-- Bibtex
 
 #### Goals  
 The goal of this seed is to structure ML paper-code the same so that work can easily be extended and replicated.   
